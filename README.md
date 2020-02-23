@@ -27,6 +27,12 @@ For run application:
 $ ./node_modules/.bin/cypress open
 ```
 
+#### Run with Docker
+For run application with Docker:
+```sh
+$ docker-compose up --exit-code-from cypress
+```
+
 License
 ----
 

@@ -1,0 +1,23 @@
+{
+  "name": "e2e-cypress",
+  "version": "1.0.0",
+  "description": "Fun project with Cypress for E2E Testing (API & Web). Demo for API & Web using my simple book management application: https://momo-book.herokuapp.com",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moemoe89/e2e-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moemoe89/e2e-cypress/issues"
+  },
+  "homepage": "https://github.com/moemoe89/e2e-cypress#readme"
+}
