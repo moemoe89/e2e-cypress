@@ -4,7 +4,7 @@
   "description": "Fun project with Cypress for E2E Testing (API & Web). Demo for API & Web using my simple book management application: https://momo-book.herokuapp.com",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^4.0.2"
+    "cypress": "^4.12.1"
   },
   "devDependencies": {},
   "scripts": {
